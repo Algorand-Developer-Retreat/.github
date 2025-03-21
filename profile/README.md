@@ -30,3 +30,4 @@ Feel free to reach out to anyone in the Developer Relations team if you have que
 - Marco Podien
 - Astha Yadav
 - Gabriel Kuettel
+- Jorrin Bruns
