@@ -23,7 +23,7 @@ You will not be able to delete repositories or make them private, so please ensu
 
 ## Questions
 
-Feel free to reach out to anyone in the Developer Relations team if you have questions or encounter issues:
+Feel free to reach out to anyone in the Developer Relations team if you have questions, encounter issues, or need to be invited to the org so you can create a repo:
 - Brian Whippo
 - Chris Kim
 - Evert Diaz
