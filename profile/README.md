@@ -21,6 +21,10 @@ All members of this organization may create repositories for submissions. Please
 
 You will not be able to delete repositories or make them private, so please ensure that any work submitted is safe to share openly and permanently.
 
+## Session Notes
+
+We have taken notes during the vast majority of the retreat talks and sessions in a [Google Doc here](https://docs.google.com/document/d/1jgdBkn8tj62Tc3zxfuuzvyjuyjv3hY2AHT7krsJxjkw/edit?tab=t.0#heading=h.4wy5wjqdvmfh).
+
 ## Questions
 
 Feel free to reach out to anyone in the Developer Relations team if you have questions, encounter issues, or need to be invited to the org so you can create a repo:
